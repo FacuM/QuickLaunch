@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_main_margin">10sp</dimen>
+    <dimen name="app_item_padding">8sp</dimen>
+    <dimen name="app_item_margin">3sp</dimen>
+    <dimen name="app_item_icon_size">64sp</dimen>
+    <dimen name="app_item_icon_margin">15sp</dimen>
+    <dimen name="app_item_corner_radius">7dp</dimen>
+</resources>

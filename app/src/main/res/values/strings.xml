@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickLaunch</string>
+    <string name="app_icon_content_description">Application icon</string>
+</resources>

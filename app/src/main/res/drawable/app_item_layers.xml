@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <solid android:color="@android:color/darker_gray" tools:targetApi="ice_cream_sandwich" />
+    <solid android:color="?android:attr/textColorPrimaryInverseNoDisable" tools:targetApi="lollipop" />
+    <corners android:radius="@dimen/app_item_corner_radius" />
+</shape>
